@@ -1,0 +1,1 @@
+This repository will contain all of the data structures which I'm brushing up on. My goal is to understand and digest the mechanics of these data structures. 
